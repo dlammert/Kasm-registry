@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Airgap Kasm Technologies',
+    description: 'The unofficial store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: ' https://dlammert.github.io/kasm-registry/',
+    contactUrl: 'https://none.com',
   },
   reactStrictMode: true,
   swcMinify: true,
